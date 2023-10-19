@@ -1,2 +1,12 @@
+<<<<<<< HEAD
+=======
+All destoyed by branch of alien-plot.All destoyed by branch of alien-plot.All destoyed by branch of alien-plot.
+All destoyed by branch of alien-plot.All destoyed by branch of alien-plot.
+All destoyed by branch of alien-plot.
+All destoyed by branch of alien-plot.
+
+
+
+>>>>>>> alien-plot
 This is chapter 1 that is created using git.
 All destoyed by branch of alien-plot.
