@@ -1,1 +1,1 @@
-This is a second file in which we created chapter 2 using git.
+This is a second file in which we created chapter 2.
